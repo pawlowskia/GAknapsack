@@ -1,0 +1,3 @@
+/Users/adam/Desktop/ga Knapsack/cmake-build-debug/CMakeFiles/ga_Knapsack.dir
+/Users/adam/Desktop/ga Knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/Desktop/ga Knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
